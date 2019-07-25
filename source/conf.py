@@ -17,6 +17,7 @@ import sphinx_rtd_theme
 import sphinx_markdown_tables
 import recommonmark
 
+master_doc = 'index'
 
 # -- Project information -----------------------------------------------------
 
